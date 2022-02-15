@@ -60,6 +60,52 @@ section hr{
     color: #F6F8F9;
     background: #F6F8F9;
     border: 0px;
-    height: 2px;;
-    
+    height: 2px;
 }
+
+ul{
+    list-style-type:none
+}
+
+.box{
+    padding: 30px 60px 0px 60px;
+}
+
+ul {
+    padding:15px 30px ;
+    font-size: 20px;
+    } 
+
+li{
+    padding-bottom: 20px;
+}
+
+section button{
+    background-color: #47ADF1;
+    color: white;
+    border-radius: 15px ;
+    padding: 8px 12px;
+    border: 0px;
+    margin: 0px 5px 0px 5px;
+}
+
+#Q1{
+    background-color:#9C72E4;
+}
+
+#recruting{
+    background-color:#64C0A9;
+}
+
+#mobile{
+    background-color:#F29E33;
+}
+
+#website{
+    background-color:#D863A1;
+}
+
+#sales{
+    background-color:#B0C926;
+}
+
