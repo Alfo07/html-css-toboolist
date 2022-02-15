@@ -2,10 +2,11 @@
     margin: 0px;
     padding: 0px;
     box-sizing: border-box;
+    font-family:'Padauk', sans-serif; ;
 }
 
 body{
-    background-color: rgb(238, 238, 238);
+    background-color: #F6F8F9;
 }
 
 header{
@@ -22,4 +23,43 @@ header img{
 header div{
     display: inline-block;
     font-size: 20px;
+    margin: 10px 0px;
+    vertical-align: middle;
+}
+
+main{
+    background-color: white;
+    width: 1100px;
+    height: 810px;
+    margin:60px auto;
+    border-radius: 10px;
+}
+
+#bottone1{
+    background-color: #47ADF1;
+    color: white;
+    border-radius: 5px ;
+    padding: 8px 12px;
+    border: 0px;
+    margin-right: 5px;
+}
+
+#bottone2{
+    background-color: white ;
+    color: rgb(186, 186, 186);
+    border-radius: 5px ;
+    padding: 7px 11px;
+    border: 1px solid rgb(186, 186, 186);
+}
+
+section div{
+    padding: 15px 0px 15px 60px;
+}
+
+section hr{
+    color: #F6F8F9;
+    background: #F6F8F9;
+    border: 0px;
+    height: 2px;;
+    
 }
